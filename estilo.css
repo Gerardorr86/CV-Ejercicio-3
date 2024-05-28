@@ -1,0 +1,33 @@
+body{
+    color: black;
+    font-family: "Sedan SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: grey;
+}
+
+section{
+    border: 2px black solid;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+#centro{
+    text-align: center;
+}
+header ul li{
+
+    list-style: none;
+
+}
+
+h2{
+    color: red;
+    text-align: centerd;
+}
+
+a{
+    text-align: center;
+}
+
